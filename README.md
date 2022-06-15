@@ -1,27 +1,27 @@
-### Look Who Found Me! 🐨
+### Look Who Found Me! 
 
-[![Header](https://imgur.com/t/github/9IP5X9S "Header")](https://shikoh-carol.dev/)
+[![Hi there!]("https://imgur.com/t/github/7koUv1a")](https://shikoh-carol.dev/) 
 
-Hey there!
 
 A little bit about myself:
 
-- 🔭 I currently just became a part of the ![Antler]("https://www.antler.co/") partners network as a Tech Lead. I will be offering my Tech Skills to start-ups teams creating the next bunch tech solutions through the ![Antler program]("https://www.antler.co/")
+- 🔭 I just became a part of the [Antler]("https://www.antler.co/") partners network as a Tech Lead. I will be offering my Tech Skills to start-ups teams creating the next bunch tech solutions through the [Antler program]("https://www.antler.co/")
 
-- 🥷 I recently finished a 12 week intense cybersecurity Bootcamp at ![Ironhack]("https://img.shields.io/static/v1?label="Ironhack"-message="Ironhack"-color="#2BC5FA" width="30px" width="30px")
+- 🥷 I recently finished a 12 week intense cybersecurity Bootcamp at [Ironhack]("https://www.ironhack.com/en")
 
-- 🇰🇪 I am based in Nairobi, Kenya 
+- 🇰🇪 I am based in Nairobi, Kenya
 
 - I specialise in Backend Python (Python-Django, Python-Flask, FastAPI) and Javascript (Vue.JS and a smidget of Node.JS).
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.2]: https://imgur.com/gallery/OQUXwNp.png (LinkedIn icon without padding)
+[3.2]: https://imgur.com/OQUXwNp (LinkedIn icon without padding)
+
 
 <!-- social media account links -->
 
