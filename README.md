@@ -35,12 +35,12 @@ A CTO/CEO of a Security/IOT/Robotics organization(s). In order to achieve this, 
 - Dig deeper into data science and machine learning.
 
 ***Socials!***
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
+You can find me on my Twitter [![Twitter][1.2]][1], or LinkedIn [![LinkedIn][3.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://imgur.com/LS08Auh (twitter icon without padding)
-[3.2]: https://imgur.com/TJRr1iY (LinkedIn icon without padding)
+[1.2]: /assets/images/twitter_icon.png (twitter icon without padding)
+[3.2]: /assets/images/lnkdin.png (LinkedIn icon without padding)
 
 
 <!-- social media account links -->
