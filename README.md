@@ -1,82 +1,60 @@
-### Look Who Found Me! 
+### So Glad You Found Me! 
 
-[![Hi there!]("https://imgur.com/t/github/7koUv1a")](https://shikoh-carol.dev/) 
+Hi there!
+My name is Caroline (Shikoh) Wanjiku. I prefer to go by Shikoh.
+
+A little bit about my professional journey.
+
+***Where I am today:***
+- 🔭 I recently joined the [Antler]("https://www.antler.co/") partners network as a Techie. I will be offering my Tech Skills to start-up teams creating the next bunch of tech solutions through the [Antler program]("https://www.antler.co/").
+
+- 🥷 In March 2022 I graduated from a 12 week intense cybersecurity Bootcamp at [Ironhack]("https://www.ironhack.com/en").
+
+- 🇰🇪 I am based in Nairobi, Kenya and have experience in remote work.
+
+- I am Python Backend with experience in Python-Django, Python-Flask, FastAPI and Chalice frameworks as well as and Javascript (Vue.JS and a smidget of Node.JS).
 
 
-A little bit about myself:
 
-- 🔭 I just became a part of the [Antler]("https://www.antler.co/") partners network as a Tech Lead. I will be offering my Tech Skills to start-ups teams creating the next bunch tech solutions through the [Antler program]("https://www.antler.co/")
+<details><summary>Where have I worked as a Software Developer? </summary>
+<p>
 
-- 🥷 I recently finished a 12 week intense cybersecurity Bootcamp at [Ironhack]("https://www.ironhack.com/en")
+1. ![Inensus](/assets/images/Inensus_trans.png)
+3. ![Sendwave](/assets/images/wave_trans.png)
+4. ![Mobiliti](/assets/images/mobiliti_trans.png)
+5. ![Andela](/assets/images/andela_trans.png)
 
-- 🇰🇪 I am based in Nairobi, Kenya
+</p>
+</details>
 
-- I specialise in Backend Python (Python-Django, Python-Flask, FastAPI) and Javascript (Vue.JS and a smidget of Node.JS).
+***Where do I aim to be in the near future?***
+A CTO/CEO of a Security/IOT/Robotics organization(s). In order to achieve this, I'll be preparing in the following ways:
+- Cloud certified (AWS, GCP) and developing my Devops knowledge.
+- Achieve a number of Cybersecurity certificates.
+- Be part of an organization with multiple teams where I can grow.
+- Dig deeper into data science and machine learning.
 
-<!-- Actual text -->
-
+***Socials!***
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.2]: https://imgur.com/OQUXwNp (LinkedIn icon without padding)
+[1.2]: https://imgur.com/LS08Auh (twitter icon without padding)
+[3.2]: https://imgur.com/TJRr1iY (LinkedIn icon without padding)
 
 
 <!-- social media account links -->
 
 [1]: https://twitter.com/black_4300
 [2]: https://www.linkedin.com/in/caroline-chege-34a07011b/
-<!--
 
-A few facts about me:
-
+***Random facts about me***
+- Pronouns: she/her
 - 🔭 I was a medical claims analyst and medical lab technologist before switching to tech.
-- 🌱 I’m currently learning FastAPI and MongoDB for a MongoDB certification.
-- 
-- 🌐 I love tech because of the never ending opportunities at innovation and creativity.
-- 🆙 My ulimate goal is to be the best CTO ever!
-- ♿️ I’m looking for help with getting back on my career track after taking a long medical break which left me legally disabled after developing fibromyalgia.
-- 💬 I cannot separate my health situation from my career. The greatest work I've done is lose all physical and mental ability and come back from that...
-- 📫 How to reach me: Email me at carolchege4300@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a drummer
--->
-=======
-## Welcome to GitHub Pages
+- 🌐 My switch was inspired through a project I proposed and enforced to make the claims analysis process easier and training shorter. Technical thinking was considered a vital part of business process management, and thus I decided to pursue the Andela fellowship.
+- 🌱 I love to learn. I am always open to feedback.
+- ♿️ I’m also learning to live and work with chronic pain after being diagnosed with Fibromyalgia in 2020. I don't know if someone ever gets used to it, but I am resilient and keep the hope alive.
+- ⚡ Hobbies: I am a drummer, I love road trips and I love outdoors and nature.
 
-You can use the [editor on GitHub](https://github.com/wanjiku-carol/wanjiku-carol/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanjiku-carol/wanjiku-carol/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Thanks for passing by. Bye!!
