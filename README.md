@@ -57,4 +57,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
 - ⚡ Hobbies: I am a drummer, I love road trips and I love outdoors and nature.
 
 
-### Thanks for passing by. Bye!!
+### Thanks for passing by.
