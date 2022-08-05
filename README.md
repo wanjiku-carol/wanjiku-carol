@@ -20,9 +20,9 @@ A little bit about my professional journey.
 <p>
 
 1. ![Inensus](/assets/images/Inensus_trans.png)
-3. ![Sendwave](/assets/images/wave_trans.png)
-4. ![Mobiliti](/assets/images/mobiliti_trans.png)
-5. ![Andela](/assets/images/andela_trans.png)
+2. ![Sendwave](/assets/images/wave_trans.png)
+3. ![Mobiliti](/assets/images/mobiliti_trans.png)
+4. ![Andela](/assets/images/andela_trans.png)
 
 </p>
 </details>
@@ -47,6 +47,7 @@ You can find me on my Twitter [![Twitter][1.2]][1], or LinkedIn [![LinkedIn][3.2
 
 [1]: https://twitter.com/black_4300
 [2]: https://www.linkedin.com/in/caroline-chege-34a07011b/
+
 
 ***Random facts about me***
 - Pronouns: she/her
