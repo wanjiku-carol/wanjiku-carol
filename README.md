@@ -1,40 +1,24 @@
-### So Glad You Found Me! 
+# Hi there, I'm Wanjiku Carol! 👋
 
-Hi there!
-Name: Caroline (Shikoh) Wanjiku.
-Roles: Python Software Engineer (4 years), Data Warehouse Engineer (2 years)
+## About Me
+I'm a passionate software developer with a focus on web development and data science. I enjoy building scalable web applications and working with data to derive meaningful insights.
 
+## Skills and Technologies
+- **Languages**: Python, JavaScript, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, Kubernetes, AWS
+- **Databases**: MySQL, MongoDB, PostgreSQL
 
-A little bit about my professional journey.
+## Projects
+- **[Project Name](https://github.com/wanjiku-carol/project-name)**: A brief description of the project and its key features.
+- **[Another Project](https://github.com/wanjiku-carol/another-project)**: A brief description of this project and its key features.
 
-***Tech Roles Since the Begginning:***
-<ul>
-<li>
-  Andela Software Engineering and Leadership Fellowship (2017 - 2020). In this period I worked fothe following clients:
-  <ul>
-    <li> Mobiliti Car Subscription Services (Python Engineer & Technical Team Lead).</li>
-    <li> Sendwave Money Remittance (Python & Swift Engineer).</li>
-    <li>Andela in-house software products as a product manager and Engineer(Python & JavaScript Engineer).</li>
-  </ul>
-</li>
-<li>Inensus (Python Engineer)</li>
-<li> Omnicom Media Group UK Agency & (OMD) Kenya Agency (Data Engineer & Data Warehouse Engineer).</li>
-</ul>
+## Achievements and Certifications
+- **Certification Name**: Description or issuer.
+- **Award or Achievement**: Description.
 
-***Skills***
-Omnicom Media Group UK Agency
+## Contact Me
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
-***LinkedIn Profile***
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/caroline-wanjiku-chege/))
-
-
-***Other Details***
-- Pronouns: she/her
-- 🔭 I was a medical claims analyst and medical lab technologist prior to switching to tech.
-- 🌐 My switch was inspired through a project I proposed and enforced to make the claims analysis process easier and training shorter. I also created the proposal and architecture of a user app for the Insuarace's clients to be able to Technical thinking was considered a vital part of business process management, and thus I decided to pursue the Andela fellowship.
-- 🌱 I love to learn. I am always open to feedback.
-- ♿️ I’m also learning to live and work with chronic pain after being diagnosed with Fibromyalgia in 2020. I don't know if someone ever gets used to it, but I am resilient and keep the hope alive.
-- ⚡ Hobbies: I am a drummer, I love road trips and I love outdoors and nature.
-
-
-### Thanks for passing by.
+![Profile Views](https://komarev.com/ghpvc/?username=wanjiku-carol&color=blue)
