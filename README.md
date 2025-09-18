@@ -35,6 +35,6 @@ Passionate about bridging software engineering, data analytics, and product stra
 
 ## Contact Me
 - **Email**: [Email Me](mailto:carolchege4300@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/caroline-wanjiku-chege/)
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/caroline-wanjiku-chege/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wanjiku-carol&color=blue)
