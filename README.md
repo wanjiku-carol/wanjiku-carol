@@ -16,8 +16,9 @@ Passionate about bridging software engineering, data analytics, and product stra
 - Cybersecurity & Process: Risk Assessment, Lean Six Sigma (Yellow Belt)
 
 ## Projects
-- **[Partner Center Retrospective](https://github.com/wanjiku-carol/partner-center)**: TBD.
-- **[Enterprise Marketing Data Platform — System Architecture](https://github.com/wanjiku-carol/tusker)**: TBD
+- **[Partner Center Retrospective](https://github.com/wanjiku-carol/partner-center)**
+- **[Enterprise Marketing Data Platform — System Architecture](https://github.com/wanjiku-carol/tusker)**
+- **[Retrospective Case Analyses of High-Risk Technical Blockers — System Architecture](https://github.com/wanjiku-carol/behavioural_prompts)**
 
 ## Achievements and Certifications
 
