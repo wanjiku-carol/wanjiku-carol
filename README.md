@@ -1,4 +1,4 @@
-# Hi there, I'm Wanjiku Carol! 👋
+# Hi there, I'm Caroline Wanjiku.
 
 ## About Me
 Software & Data Engineer with 7+ years of experience designing, building, and optimizing scalable cloud and data-driven solutions across Africa and Europe.
